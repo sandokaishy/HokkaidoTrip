@@ -1,0 +1,251 @@
+{
+  "tripTitle": "北海道冬季之旅",
+  "subtitle": "探索雪國的浪漫與美味",
+  "duration": "5天4夜",
+  "heroImage": "https://images.unsplash.com/photo-1551524559-8af4e6624178?w=1600&q=80",
+  "days": [
+    {
+      "day": 1,
+      "date": "Day 1",
+      "title": "札幌市區探索",
+      "description": "從北海道首府開始，感受城市的活力與歷史底蘊",
+      "coverImage": "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=800&q=80",
+      "spots": [
+        {
+          "name": "北海道神宮",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600&q=80",
+          "description": "坐落在圓山公園內的北海道總鎮守，被原始森林環繞，冬季時覆蓋白雪更顯莊嚴。",
+          "lat": 43.0557,
+          "lng": 141.3099,
+          "time": "09:00"
+        },
+        {
+          "name": "大通公園",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1598935898639-81586f7d2129?w=600&q=80",
+          "description": "札幌市中心的綠色長廊，冬季是著名雪祭的舉辦地，各種精美雪雕令人驚嘆。",
+          "lat": 43.0603,
+          "lng": 141.3547,
+          "time": "11:00"
+        },
+        {
+          "name": "札幌拉麵共和國",
+          "type": "美食",
+          "image": "https://images.unsplash.com/photo-1557872943-16a5ac26437e?w=600&q=80",
+          "description": "匯集北海道各地名店的拉麵主題美食街，味噌拉麵是必嚐的經典。",
+          "lat": 43.0646,
+          "lng": 141.3508,
+          "time": "12:30"
+        },
+        {
+          "name": "札幌電視塔",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1603912699214-92627f304eb6?w=600&q=80",
+          "description": "從 90 公尺高的展望台俯瞰大通公園全景與札幌市區，夜景尤其迷人。",
+          "lat": 43.0611,
+          "lng": 141.3565,
+          "time": "15:00"
+        },
+        {
+          "name": "狸小路商店街",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1528164344885-47d68b0d52f1?w=600&q=80",
+          "description": "北海道最大的商店街，全長約 900 公尺的拱廊內有各式商店、藥妝和美食。",
+          "lat": 43.0559,
+          "lng": 141.3544,
+          "time": "16:30"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "date": "Day 2",
+      "title": "小樽運河浪漫之旅",
+      "description": "搭乘列車前往港都小樽，漫步在充滿懷舊氛圍的運河旁",
+      "coverImage": "https://images.unsplash.com/photo-1578271887552-5ac3a72752bc?w=800&q=80",
+      "spots": [
+        {
+          "name": "小樽運河",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1578271887552-5ac3a72752bc?w=600&q=80",
+          "description": "小樽最具代表性的景點，沿岸石造倉庫群與瓦斯燈營造出浪漫的異國風情。",
+          "lat": 43.1977,
+          "lng": 140.9945,
+          "time": "10:00"
+        },
+        {
+          "name": "北一硝子館",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=600&q=80",
+          "description": "小樽著名的玻璃工藝館，館內數百盞油燈營造出夢幻的光影空間。",
+          "lat": 43.1903,
+          "lng": 140.9943,
+          "time": "11:30"
+        },
+        {
+          "name": "LeTAO 雙層起司蛋糕",
+          "type": "美食",
+          "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=600&q=80",
+          "description": "小樽名物！入口即化的雙層起司蛋糕，一層烘焙起司、一層半熟起司的絕妙搭配。",
+          "lat": 43.1907,
+          "lng": 140.9941,
+          "time": "13:00"
+        },
+        {
+          "name": "小樽音樂盒堂",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80",
+          "description": "日本最大的音樂盒專賣店，超過 25,000 種音樂盒，還可以體驗手作音樂盒。",
+          "lat": 43.1901,
+          "lng": 140.9930,
+          "time": "14:30"
+        },
+        {
+          "name": "小樽壽司通",
+          "type": "美食",
+          "image": "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=600&q=80",
+          "description": "被稱為「壽司街」，聚集多間壽司名店，使用北海道新鮮海產製作的握壽司是必嚐美味。",
+          "lat": 43.1934,
+          "lng": 140.9930,
+          "time": "17:00"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "date": "Day 3",
+      "title": "登別溫泉療癒日",
+      "description": "前往北海道最知名的溫泉鄉，享受地獄谷的壯觀景色與暖呼呼的溫泉",
+      "coverImage": "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&q=80",
+      "spots": [
+        {
+          "name": "登別地獄谷",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1528164344885-47d68b0d52f1?w=600&q=80",
+          "description": "直徑約 450 公尺的火山口遺跡，噴氣孔與硫磺泉不斷冒出蒸氣，宛如地獄般壯觀。",
+          "lat": 42.4939,
+          "lng": 141.1573,
+          "time": "10:00"
+        },
+        {
+          "name": "大湯沼",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?w=600&q=80",
+          "description": "周長約 1 公里的天然溫泉湖，表面溫度高達 50°C，冬季蒸氣瀰漫十分壯觀。",
+          "lat": 42.4889,
+          "lng": 141.1550,
+          "time": "11:30"
+        },
+        {
+          "name": "登別溫泉街",
+          "type": "美食",
+          "image": "https://images.unsplash.com/photo-1554797589-7241bb691973?w=600&q=80",
+          "description": "溫泉街上有各式餐廳與土產店，推薦品嚐閻魔大王燒和溫泉蛋。",
+          "lat": 42.4936,
+          "lng": 141.1505,
+          "time": "13:00"
+        },
+        {
+          "name": "第一瀧本館",
+          "type": "住宿",
+          "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=600&q=80",
+          "description": "登別歷史最悠久的溫泉旅館，擁有 35 個溫泉池，可享受 7 種不同泉質的溫泉。",
+          "lat": 42.4931,
+          "lng": 141.1530,
+          "time": "15:00"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "date": "Day 4",
+      "title": "富良野・美瑛雪原絕景",
+      "description": "前往北海道中部，欣賞冬季限定的夢幻雪原風景",
+      "coverImage": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=800&q=80",
+      "spots": [
+        {
+          "name": "青池",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1491002052546-bf38f186af56?w=600&q=80",
+          "description": "冬季的青池會進行夜間點燈，結冰的湖面搭配燈光效果，呈現出夢幻的藍色光景。",
+          "lat": 43.3887,
+          "lng": 142.6845,
+          "time": "09:30"
+        },
+        {
+          "name": "白鬚瀑布",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1432405972618-c6b0cfba8b0f?w=600&q=80",
+          "description": "從岩石縫隙中流出的地下水形成白色絲狀瀑布，冬季半凍結的姿態格外美麗。",
+          "lat": 43.3928,
+          "lng": 142.6558,
+          "time": "11:00"
+        },
+        {
+          "name": "富良野起司工房",
+          "type": "美食",
+          "image": "https://images.unsplash.com/photo-1486297678162-eb2a19b0a32d?w=600&q=80",
+          "description": "可以品嚐使用富良野新鮮牛乳製作的各式起司與披薩，還能體驗手作起司。",
+          "lat": 43.3106,
+          "lng": 142.3897,
+          "time": "13:00"
+        },
+        {
+          "name": "森之時計咖啡館",
+          "type": "美食",
+          "image": "https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=600&q=80",
+          "description": "日劇《溫柔時光》的拍攝地，隱身在森林中的木造咖啡館，可以自己手磨咖啡豆。",
+          "lat": 43.3364,
+          "lng": 142.3827,
+          "time": "15:30"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "date": "Day 5",
+      "title": "札幌最終巡禮",
+      "description": "最後一天回到札幌，走訪必去景點與採購伴手禮",
+      "coverImage": "https://images.unsplash.com/photo-1590559899731-a382839e5549?w=800&q=80",
+      "spots": [
+        {
+          "name": "北海道大學",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1519452635265-7b1fbfd1e4e0?w=600&q=80",
+          "description": "冬季的銀杏大道與白楊木林道覆蓋白雪，整個校園如同雪國般美麗。",
+          "lat": 43.0725,
+          "lng": 141.3404,
+          "time": "09:00"
+        },
+        {
+          "name": "白色戀人公園",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1602928298849-325cec8771c0?w=600&q=80",
+          "description": "北海道最知名伴手禮「白色戀人」的主題公園，歐風建築與花園充滿童話氛圍。",
+          "lat": 43.0754,
+          "lng": 141.3079,
+          "time": "11:00"
+        },
+        {
+          "name": "成吉思汗烤肉 達摩",
+          "type": "美食",
+          "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=600&q=80",
+          "description": "札幌必吃的成吉思汗烤羊肉名店，使用特製醬汁醃漬的羊肉鮮嫩多汁。",
+          "lat": 43.0553,
+          "lng": 141.3493,
+          "time": "12:30"
+        },
+        {
+          "name": "新千歲機場",
+          "type": "景點",
+          "image": "https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=600&q=80",
+          "description": "不只是機場！有哆啦A夢空中樂園、Royce' 巧克力世界等豐富設施，記得提早到機場逛逛。",
+          "lat": 42.7752,
+          "lng": 141.6925,
+          "time": "15:00"
+        }
+      ]
+    }
+  ]
+}

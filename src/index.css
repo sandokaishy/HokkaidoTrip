@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Noto Sans TC", sans-serif;
+  --color-primary: #1a365d;
+  --color-primary-light: #2a4a7f;
+  --color-accent: #c53030;
+  --color-accent-light: #fc8181;
+  --color-warm: #f6e05e;
+  --color-snow: #f7fafc;
+  --color-hokkaido-blue: #2b6cb0;
+  --color-hokkaido-sky: #ebf8ff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  margin: 0;
+}
